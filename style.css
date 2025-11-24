@@ -180,8 +180,17 @@ footer {
         font-size: 18px;
     }
 
+    .services ul{
+        list-style-type: none;
+        padding: 0 10px;
+    }
+
     .service {
-        margin-bottom: 20px;
+        margin-bottom: 30px;
+    }
+
+    .service_title {
+        font-size: 20px;
     }
 
     .service p{
