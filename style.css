@@ -177,7 +177,7 @@ footer {
 @media (max-width: 670px) {
     .services {
         margin: 0 15px;
-        font-size: 18px;
+        font-size: 17px;
     }
 
     .services ul{
@@ -190,7 +190,7 @@ footer {
     }
 
     .service_title {
-        font-size: 20px;
+        font-size: 21px;
     }
 
     .service p{
@@ -213,7 +213,7 @@ footer {
         margin-bottom: 10px;
         font-size: 26px;
         font-weight: bold;
-        padding: 0 35px;
+        padding: 0 20px;
     }
 
     .contacts_docs_btn {
