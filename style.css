@@ -177,6 +177,7 @@ footer {
 @media (max-width: 670px) {
     .services {
         margin: 0 15px;
+        font-size: 18px;
     }
 
     .service {
@@ -207,7 +208,7 @@ footer {
     }
 
     .contacts_docs_btn {
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .contacts_list {
