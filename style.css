@@ -200,6 +200,15 @@ footer {
         margin: 10px 0;
     }
 
+    .duration_and_price {
+        display: block;
+    }
+
+    .duration {
+        display: flex;
+        padding-bottom: 5px;
+    }
+
     .bio_text {
         padding: 10px;
         font-size: 22px;
