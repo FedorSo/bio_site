@@ -25,28 +25,31 @@ header {
 }
 
 .header_img {
-    width: 350px;
-    height: 350px;
+    width: 380px;
+    height: 450px;
     border-radius: 0 0 40px 0;
+    background-size: cover;
+    background-image: url(images/profile_img_full_size.jpg);
 }
 
 .header_info {
     width: 100%;
-    padding: 30px;
+    padding: 40px;
 }
 
 .name {
     font-size: 48px;
     font-weight: bold;
+    padding-bottom: 10px;
 }
 
 .profession {
-    font-size: 22px;
+    font-size: 24px;
 }
 
 .bio_text {
     padding: 20px 50px;
-    font-size: 24px;
+    font-size: 28px;
     text-align: center;
 }
 
